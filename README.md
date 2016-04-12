@@ -14,7 +14,7 @@ python main.py
 ```
 
 ## Improvement
-因 `http://corpus.ied.edu.hk` 的網站不太 stable 中間多次 timeout，需加 resume 的功能。
+因 [`http://corpus.ied.edu.hk`](http://corpus.ied.edu.hk) 的網站不太 stable 中間多次 timeout，需加 resume 的功能。
 
 ## Author
 Joseph Cheng / [@indiejoseph](http://indiejoseph.github.io)
